@@ -1,7 +1,0 @@
-<html>
-<head>
-<title>
-my profile
-</title>
-</head>
-</html>
